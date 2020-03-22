@@ -1,6 +1,7 @@
-projectKey=Test_GCC_CLIE
-serverUrl=http://localhost:9000
-serverVersion=8.2.0.32929
-dashboardUrl=http://localhost:9000/dashboard?id=Test_GCC_CLIE
-ceTaskId=AXEDEJxn9pYBgd9KRyDB
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXEDEJxn9pYBgd9KRyDB
+organization=jifbrodeur
+projectKey=jifbrodeur_GCC_CLIE
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6039
+dashboardUrl=https://sonarcloud.io/dashboard?id=jifbrodeur_GCC_CLIE
+ceTaskId=AXEDK94Xov__ABltvIW_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXEDK94Xov__ABltvIW_
